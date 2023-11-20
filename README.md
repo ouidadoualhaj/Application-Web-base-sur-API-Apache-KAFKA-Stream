@@ -1,7 +1,7 @@
 # Application-Web-base-sur-API-Apache-KAFKA-Stream
 Il s’agit de développer une application Web basée sur l’API Apache KAFKA Stream, permettant de faire  l’analyse des données, dans le but de « prédire en temps réel le désabonnement des clients d’une entreprise »
 
-![image](https://github.com/ouidadoualhaj/application-Web-bas-e-sur-l-API-Apache-KAFKA-Stream/assets/97354112/e9140c26-cbc7-4659-b7b9-79fd5f2dfcba)
+![image](https://github.com/ouidadoualhaj/Application-Web-base-sur-API-Apache-KAFKA-Stream/assets/97354112/bab190e7-56ff-4ad3-8349-d301c02361bf)
    
 Outils de travail : 
 
